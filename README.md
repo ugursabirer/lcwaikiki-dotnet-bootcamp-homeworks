@@ -1,1 +1,1 @@
-# LC Waikiki .Net Bootcamp 3. Hafta Ödevi
+# LC Waikiki .Net Bootcamp Bütün Ödevler
