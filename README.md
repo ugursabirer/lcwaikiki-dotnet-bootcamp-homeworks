@@ -1,1 +1,1 @@
-# LC Waikiki .Net Bootcamp 1. Hafta Ödevi
+# LC Waikiki .Net Bootcamp 2. Hafta Ödevi
